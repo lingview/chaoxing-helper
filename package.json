@@ -1,0 +1,9 @@
+{
+  "name": "chaoxing-helper",
+  "version": "2.0.0",
+  "private": true,
+  "description": "学习通课程扫描与客观题填答工具",
+  "dependencies": {
+    "playwright": "1.49.1"
+  }
+}
